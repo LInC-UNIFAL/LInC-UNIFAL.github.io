@@ -365,6 +365,9 @@ background: rgb(34, 34, 34);
 	color: #fff;
 	font-style: normal;
 }
+.navbar-brand b i img {
+	max-height: 50px;;
+}
 .logo {
 	font-size: 2.2em;
 	text-shadow: none;
